@@ -1,4 +1,4 @@
-# ibmwatson-chatbot
+# IBM Watson-chatbot
 This repo has the step to create a IBM Watson chatbot and deploy it . 
 
 # Creating a bot with skill kit - code posted by IBM
@@ -81,6 +81,45 @@ http://![](images/path.png)
 5. Click Import skill -> Choose JSON file and import the "COVID-FAQ.json" file. 
 
 ![](images/11.png)
+
+
+6. Go back to the All Assistants page (click x mark on top right) .Then click the action menu ( ⋮ ), click Settings.
+
+![](images/12.png)
+
+![](images/13.png)
+
+
+
+7. On the Settings tab, click API Details on the left and make a note of the Assistant ID and Api Key for future use.
+
+![](images/14.png)
+
+8. Go back to the All Assistants page (click x mark ) and click on the Skills link . 
+
+![](images/15.png)
+
+9.  On the Skill page, click on the action menu ( ⋮ ), open View API Details. 
+
+![](images/16.png)
+
+
+10. On the Skill Details page, make note of the Skill ID for future use. 
+
+![](images/17.png)
+
+11.  Go back to your dialog skill and click on the Preview Link button on the side to get a link to test and verify your assistant. 
+
+![](images/18.png)
+
+12. Ask the Watson Assistant chatbot some questions about COVID-19.
+
+![](images/19.png)
+
+
+# You have successfully created a Covid-19 chatbot IBM Watson Assistance .
+
+
 
 
 
