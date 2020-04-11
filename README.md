@@ -26,11 +26,12 @@ This repo has the step to create a IBM Watson chatbot and deploy it .
 
 # Prerequisite
 
-*  IBM Cloud account - may be lite or paid one . 
+*  IBM Cloud account - may be lite or paid plan . 
 
 # Step 1 : Set up an instance of Watson Assistant
 
 1. Log in to IBM cloud using your credintials. Link-> https://cloud.ibm.com/login
+         
          If you have no IBM cloud account. press https://cloud.ibm.com/registration to register.
          
 2. After Siging-In go to the IBM Cloud catalog, to provision an an instance of Watson Assistant. 
